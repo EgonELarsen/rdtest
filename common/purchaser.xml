@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MasterData>
+	<Purchaser id="1" name="Organization">
+		<Role role="SUPER">
+			<Rights>RD_BASIC</Rights>
+			<Rights>RD_MULTI</Rights>
+			<Rights>RD_PATCH</Rights>
+			<Rights>RD_TEXT</Rights>
+			<Rights>RD_EVENT_LOG</Rights>
+			<Rights>RD_TETRA_ADM</Rights>
+			<Rights>RD_OPEN_WRITE</Rights>
+			<Rights>RD_ACT_DEACT</Rights>
+			<Rights>RD_EDIT_ALIAS2</Rights>
+			<Rights>RD_EDIT_ANNOTATION</Rights>
+			<Rights>RD_AMBIENCE</Rights>
+			<Rights>RD_RADIO_CHK</Rights>
+			<Rights>RD_FORCE_GROUP</Rights>
+			<Rights>RD_AUDIO_TOOL</Rights>
+		</Role>
+		<SDSTemplate text="Test template" />
+		<SDSTemplate text="&#xC6;bler" />
+		<SDSTemplate text="1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890 1234567890" />
+	</Purchaser>
+</MasterData>

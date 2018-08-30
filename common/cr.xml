@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MasterData>
+	<Cr id="107" name="CR1" sdsregion="3">
+		<CrISSI issi="1011000" />
+		<Folder name="ALL">
+			<GSSIRange start="1070000" end="1070900" open="false" />
+			<GSSIRange start="1070901" end="1080000" open="true" />
+            <GSSIRange start="1150100" end="1150300" open="false" />						
+			<ISSIRange start="1070000" end="1075000" />
+			<ISSIRange start="1075001" end="1080000" />
+			<ISSIRange start="1020101" end="1020102" />
+			<Folder name="skadestedssaet">				
+				<GSSIRange start="9030000" end="9050699" open="true" />			  				
+		    </Folder>
+		</Folder>
+		<UserData>
+			<User enable="true" username="cr107op01">
+				<Roles>OPERT</Roles>
+			</User>
+			<User enable="true" username="cr107op02">
+				<Roles>OPERT</Roles>
+			</User>
+			<User enable="true" username="cr107op03">
+				<Roles>OPERT</Roles>
+			</User>
+					<User enable="true" username="TermaAdmin">
+				<Roles>SUPER</Roles>
+			</User>
+		</UserData>
+		<!--A Contact for various states is described as the following link between the system state and the Contacts ID-->
+		<!--ID '0' is 'Server Down'-->
+		<!--ID '1' is 'Mux Down'-->
+		<!--ID '2' is 'Firewall Down'-->
+		<!--ID '3' is 'Audio Control Down'-->
+		<!--ID '4' is 'Multiplexed Sound to ICCS'-->
+		<!--ID '5' is 'No Data to ICCS'-->
+		<!--ID '6' is 'Switch Off no Lan to Workstation'-->
+		<!--ID '7' is 'Restart of Server'-->
+		<!--Other ID are not supported (See SystemState enum)-->
+		<SupportInfo>
+			<Contact id="0" phone="12345678" name="Mr. Server Down" />
+			<Contact id="1" phone="12345678" name="Mr. Mux Down" />
+			<Contact id="2" phone="12345678" name="Mr. Firewall Down" />
+			<Contact id="3" phone="12345678" name="Mr. Audio Control Down" />
+			<Contact id="4" phone="12345678" name="Mr. Multiplexed Sound to ICCS" />
+			<Contact id="5" phone="12345678" name="Mr. No Data to ICCS" />
+			<Contact id="6" phone="12345678" name="Mr. Switch Off no Lan to Workstation" />
+			<Contact id="7" phone="12345678" name="Mr. Restart of Server" />
+		</SupportInfo>
+	</Cr>
+</MasterData>

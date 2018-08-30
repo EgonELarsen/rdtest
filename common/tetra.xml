@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MasterData>
+	<TetraData>
+		<TalkGroups>
+			<GSSI number="1070100" alias="107S.ABC.01" />
+			<GSSI number="1070101" alias="107S.ABC.02" />
+			<GSSI number="1070102" alias="107S.ABC.03" />
+			<GSSI number="1070103" alias="107S.ABC.04" />
+			<GSSI number="1070104" alias="107S.ABC.05" />
+			<GSSI number="1070105" alias="107S.ABC.06" />
+			<GSSI number="1070106" alias="107S.ABC.07" />
+		</TalkGroups>
+		<Terminals>
+			<ISSI alias="1071001" number="1071001" />
+			<ISSI alias="1071002" number="1071002" />
+
+			<!-- Control room ISSIs -->
+			<ISSI alias="1011000" number="1011000" />
+			<ISSI alias="2011000" number="2011000" />
+			<ISSI alias="3011000" number="3011000" />
+			
+			<!-- WS ISSIs -->
+			<ISSI alias="02-ICCS1-OP1" number="1020101" />
+			<ISSI alias="02-ICCS1-OP2" number="1020102" />
+		</Terminals>
+	</TetraData>
+	<TerminalStatusMap>
+		<TerminalStatus text="Fest" code="33004" />
+		<TerminalStatus text="Hjemme" code="33005" />
+		<TerminalStatus text="Afgang" code="33001" />
+		<TerminalStatus text="Ankomst skadested" code="33002" />
+		<TerminalStatus text="Indsat skadested" code="33003" />
+		<TerminalStatus text="Afgang skadested" code="33007" priority="1" userack="true" event="true" />
+		<TerminalStatus text="Ankomst Nu" code="33008" priority="2" userack="true" event="true" />
+		<TerminalStatus text="Afgang Nu" code="33009" priority="3" userack="true" event="true" />
+		<TerminalStatus text="Opkaldsanmodning" code="49000" event="true" callrequest="true" priority="0" /> 
+		<TerminalStatus text="Haste-opkaldsanmodning" code="49001" event="true" callrequest="true" priority="2" /> 
+		<TerminalStatus text="Faktisk Hallo" code="49999" event="true" callrequest="true" priority="3" /> 
+	</TerminalStatusMap>
+</MasterData>

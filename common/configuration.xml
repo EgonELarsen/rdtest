@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><MasterData>
+	<Configuration>
+		<Configuration key="ui.incident_set_regex">
+			<value>CRYPTDSu1FwaRwfn6HawB30bSZHN2A0Wh1/XLh9B7glbYZ+qk1TeYOqor2CJeDeHbcqgf</value>
+		</Configuration>
+		<Configuration key="ui.issi_validity_ranges">
+			<value>CRYPTcZj1/i+d8VRS00t2jQc6RLg/UfmxiyGNPAUQQs8EBRhHlHDo5/jkbTeR0TwXXsM+7wZhbvo/l8o9HBZE2XB/ANLmr4T1u+c3ajC0NLITxB8=</value>
+		</Configuration>
+		<Configuration key="dispatchtalkgroup.columns">
+			<value>CRYPT33mgtBqGyioSjpcugR9AKiTT1VEPmkf6e1GxGa6+ttmem+Am14RVzOq9dQ2XYww14PpmpZjpVbjuHtg7N7Uc4tzF1GMnH+PmJ8gEQQKEoJOWELJkjK3hwQXXCtaf9G/O</value>
+		</Configuration>
+		<Configuration key="textmessageview.broadcastindividual">
+			<value>CRYPTciCSsPd+jM1tzA7rIPuGim2IfK1RlLxwPJ2WvI76lJIJyDtVxes4N67bJFk0iNV7</value>
+		</Configuration>
+		<Configuration key="eventlogview.show_status_filter">
+			<value>CRYPTwjTQagUqMXYpXwU+DGX6/GC6sinAggUJikHAEfxvlfiRuFY1TmXHJfh89C3ArtRcI0QloL7X455nhbEF0rok4do6igIhEY38+5vc3ZyYqTc=</value>
+		</Configuration>
+		<Configuration key="dispatchgrouphmi.show_tab_enable_icon">
+			<value>CRYPT67nSLofbQNH3CntaM5chQhj12gdhLSJPpGH7DLGrAMjz9X1HIVg3XzYUWB7MQbDbbcUKtH/qEi+3UEp2+xu6VVyz+vdjhzFYFP15ZetUgzE=</value>
+		</Configuration>
+		<Configuration key="dispatchgrouphmi.show_no_primary_group_selected_popup">
+			<value>CRYPTzTbQ91B3ZeZI56avi5uPqL0iD/GloFb4QOpVeq13MqYKudhRCbFUgB8leUcUnihR</value>
+		</Configuration>
+		<!--
+		<Configuration key="eventlogview.use_local_status_manager">
+			<value> </value>
+		</Configuration>
+
+		<Configuration key="eventlogview.call_request_issi_filter">
+			<value>1071001,1071002</value>
+		</Configuration>
+
+		<Configuration key="eventlogview.event_sound">
+			<value> </value>
+		</Configuration>
+
+		<Configuration key="eventlogview.enable_goto_audio_player">
+			<value> </value>
+		</Configuration>
+-->
+
+		<Configuration key="dispatchtoolbarui.custom_layout">
+			<value><![CDATA[CRYPTFU1+dWCli0LxMNQElGE0tmNyFOZejilD1Igfx7SCEk75YuzPpyfNeVs7HG8nVQsuMsTVnXETAiqPQsjPDjukPj5cXLXy4cnpThKP2eY6ooJQvU6+7gM5I07UnYVuOemhkgX/62u9E42YgrwD6xx9bzdqzlGqoP6EPzLm/l33Gi+TPQqAjO88zQeTGlagioSNp8G2OxiciEKqjFvP/Xik1v3W/sSAptc++y47n1N2WN3HyIEE6b7T9i11JM+9YQgHBv/Fe097JMwZCSVx64a8fpddj/CfCViZ2eOwOKnKpD7scPbsyU8Xe3Nurnmqx5axnaA9/gXTsCDaXfaDJvopF09dMPHggdAZwVOkLFmlzOKiGyttkU+k2mBbs7Q/TRBLcpH1w74aY1VlvXCTwmcXhtLje7HBZf78Vr5+wZ/2qfHH97KM3NuybOwPOc92BHhXwTcTHffsTEhnpuiz7rQnafNZdknh8wya+3CJZJudYyk8PtYttHCA24EkWLLISq+dpMCIL5lthYpcUuSOCYqh0ngT4DehZzKNsReLg7nkMVxogb8dP9WAFlmlMyw2SXGyFp4l9YNGI2L+b8H/zSNjL780MLbWw751KBPtcNfdu8jakrNB4kD3qREqiLx329tQvYgGS6GfSMbqlD7ln1DY1DXL3fyxJsZsYHPty1y/FL954gR2LlZNjHdG3DkIk+X5J+DOsQbeCd6g5Ruzqy9ZnMVhFPtlImNRN4BW57zZsjYCPk4ZS9KMvKamZIoV62ldrPfg2ekSjP3MQYTEiyYnli+62R2CBrNkqxEnYJ34YxhzLZ0ystGsmPeCu48ue+NeXJB3r0jr81lO88WpBQSDTFGHiHpRStudYWtVQ1TUMji4vts/E1SPKLnk7XHuCU7AxtU3gNvowO1EFnvAJkJath6lgUfrYfW97ZvTrsh6yzuYObwcr78uWGoE/A7VMmLmlyMcdsx5BcNA/3xAaK2A6qEjgX5IUnYcHQXNDs2kxgzEdc0RZcmtBdhZWoZn366esaAUVS/ZOPQ5U6FGEY7VGNUUEk8Pc1UbK5HJ/vVQ+wzGpaL5AcMutVgyd78YoIC5eKuzOFVoF122dckDbHXIM87Xqmo/wlrvSZGp0AjfOz9x3+qgYpCH4dVrx+R2aowFrUGRkepB6p9TxpKv3/vgSQ==]]></value>
+		</Configuration>
+
+		<Configuration key="sidebartoolbarui.custom_layout">
+			<value><![CDATA[CRYPTsiFZJxB16YKvJRa5hSqSdt/Nli7O40hFbcX/Dm/1KyHcov6wvSb5uWKYoAm8WEMJRrYtwC+Af4vF1xol/g6bMqZ0XB0c5yvYeZUvS9r6QdCM3+f2Cv+P9C+oqPiBbXetAd1aCCgwav+aIyCj/ZYn8aIiae/sYTWpPR0CTJ6lpuSRT0uAQAN1iB91Na2wrIO+rupu9bsLOMbBPsIoNcqUCIsFe4CI88C4QWNm1+yIeEeMSWofvPt9mH1ZqqFXJHYOj3ZFIjJ460HLyOxBbYzbdoUsxLprQucCw/QVylfEUgBNLHHWbnRQSST4IUkcXUoFdk5eubZ5gUeBQRTTexMSgPw+NFyjoX3JjHyWLz9AorolsPb2z4eGiCvEOw7JqDlhjUTkbaeksF/EoXqjFt4dWOEQ2uI6T2axQf1Hd1F2h4mMTztrU9ujjro5Pm52cggRxdKLQbJaSw42iMnDQRf0SdsOfrJwIH4P+qeWokLjMK1YvfSObGal5GzFjDDWxQh9KqsyIDNKUtC7N/JD8CyMN9tI7U7HJ7pYNJzpq/FIBgcIwQtFhgt89XM4MSLObbzMaQwt0DX+DJ8hUiW32flBDGlGWiqnEX/O5vBOGt5OEQBpMhL5bXzxMnbTwLT5TV0d]]></value>
+		</Configuration>
+
+		<Node name="cr1-server1">
+			<Configuration key="externalmonitor.switch_ip">
+				<value>CRYPTTMIITOXXQbY0uYf7uuUbWPfkLg+b02dWlYvNbLVqdYDMQ8tUNKBacoWG3XwIbyIa</value>
+			</Configuration>
+			<Configuration key="externalmonitor.switch_community">
+				<value>CRYPTXQkkwovXwvjZstUFDQ9eiUL/B+jEF64tovfGsr8bLU+NEXYjBgmGpRm8V1d87y9m</value>
+			</Configuration>
+			<Configuration key="externalmonitor.switch_oid">
+				<value>CRYPTdwsb5KnsAomlpvd47NRYi4PVUOgcH45RgXA1x+1kNZDFzwrMvHc4ugC4SQe7MtbaE7BU6OGdXm0khKOUgC8jgA==</value>
+			</Configuration>
+			<Configuration key="mcadiservice.url_list">
+				<value><![CDATA[CRYPT03IdEhT6BQptztDmvwoKmAV0Gx55RkPqEMLz3XQeoyOyFza3epVVXGYJ+3xVcEa9x7OQIqv8w7JrR1q/Gt7el1ASTNQArI1FhR+vvBhy+LcghUzMRq+iaXGIxhcxNxlB8z2TUCffwA7GjblIq/Q5iRhlfDCtnW4m94N1fTnAKeL7BbPsk09rTMMNYqnmqzEF]]></value>
+			</Configuration>
+			<Configuration key="com.terma.treact.business.servicelogging.central.SNMPHOST">
+				<value>CRYPT8mp+yz/4ukjvX1siD9lJq5jDbnM5o7Su25DuDcvNV/+qaz79+VWiDKPzHvarlqTk</value>
+			</Configuration>
+			<Configuration key="com.terma.treact.business.servicelogging.central.SNMPPORT">
+				<value>CRYPTF0/8jJeXly6MkSeD3CaQrQ5OLBN/kgqMnkDbr0SvFtV1LfwIFq8JFxIGc/lBWKwN</value>
+			</Configuration>
+			<Configuration key="sdtsservice.url">
+				<value><![CDATA[CRYPTHUaEMKP/thoLqYXiZea5XQwjUYVSfNeFrZcRxqbqzMMG15dl/YOeH/isqKtdFcJqJPZ02CkUPJ6jloPEUt5wBg==]]></value>
+			</Configuration>
+			<Configuration key="sdtsservice.passcode_1011000">
+				<value>CRYPTA1WJ7545nTHEKrL6DGNL0j1NCE5h8seOD3fWsczdJPBesYlWxFxkwY5G7lsXhGru</value>
+			</Configuration>
+			<Configuration key="sdtsservice.passcode_2011000">
+				<value>CRYPTKR2+rA2QBjI0wlacS0W0h8jAfPDDzi228N6t+JBlKLTDEPJkqAPqBt1HqD+8XSDy</value>
+			</Configuration>
+			<Configuration key="sdtsservice.passcode_3011000">
+				<value>CRYPTyLtm/GwcFOq/c+cEhsg4gXIpaxUl/OjpeRkoX8ZQZHhbU343GUYgP5Kfd/eK3rRt</value>
+			</Configuration>
+		</Node>
+
+		<Node name="cr1-workstation1">
+			<Configuration key="workstationissi">
+				<value>CRYPTGkL4lJwbCtLVPd3BLxgJkWGN4CYtMnoOGfBRRCs0Hx7GT1BGIRoB0nE3mFF4tgbr</value>
+			</Configuration>
+			<Configuration key="affiliation_info_timeout_minutes">
+				<value>CRYPTDTtkg8O0GUP1SOtL+AZH7RYSQ76DGERdyCJEshpDnKjzjju280w3Hwv90JH6tZEO</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation1">
+				<value>CRYPTtkXsNanUDoXJs98U7H24fLDOodPR27zuGP2jMc0S2EaisSMIYd5eo0QWoOsC0bst</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation1">
+				<value>CRYPT7uJ4j04jbM2wY2ZARNY6Y8uruZK/l58Eo33u7j5oE7M+dorPw4fFxnjUo+DKMDCi</value>
+			</Configuration>
+			<Configuration key="mcc75.ior.workstation1">
+				<value>CRYPTAgjP3aO+nlGQsERGokmKpYKSIVbi1X0woewNTJEpUIdd38HlR7WL+6pSgQQM3lmyG01aYt95pBSxrubVrHltQs4tAA3/TDPnhwRkl4jktRA=</value>
+			</Configuration>
+			<Configuration key="mcc75.proxy.workstation1">
+				<value>CRYPTpilccz/y/KsenzPPEIkpP5T9sNRMXx6wQnZHajzCItOC/R+3vP+zgr30P5WAL7B4</value>
+			</Configuration>
+			<Configuration key="mcc75.certificate.workstation1">
+				<value>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</value>
+			</Configuration>
+			<Configuration key="mcc75.certificate.workstation2">
+				<value>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</value>
+			</Configuration>
+			<Configuration key="mux.ip.workstation1">
+				<value>CRYPT7UgdM6sc9DiOA8UhwMSwBvzcHVYdvmRazL1PD17bqeEOiq4QvurBIdSs2jfJtKgH</value>
+			</Configuration>
+			<Configuration key="mux.port.workstation1">
+				<value>CRYPTjTigzZpsl6bMdOsNVVkazKig/Ibr935nAZiats0gF3rUljPDNqHGvWbNVK6/ldJq</value>
+			</Configuration>
+			<Configuration key="voice_endpoint.ip.workstation1">
+				<value>CRYPTu2ztMIya5fWgLC+fLsMPlYhS82nuPUJvqTkySEijJvBwUadBBz1/BYnpkT17BPOG</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPTqypA4temDy/ADIhL7tP9Cys91VFHPShWjhhOIbCfKCiE2v905BFPWU6V8OYgVWjr</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPTMVKqhdqr5W5nM9mb8yWpbGe5CFWG93PIksaKgtte7nPPL5mCrk6yDTJNxrHwZr6X</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPTKGP8K0gPzEkU5v2lwaIkKRvdrtd6aoa2jaM10RmgYlMM1wC6cR9QXiMb1fJ7ClBZ</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPT8tLfkBZB+8YJgcmdn5nb0Dp+P6qPVl9saIE/xNZA/GX+66YvCjj3aNErl47CWUR2</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPTP40oILNBKOtDezLkXOjCu+4k7fCtNeTcMea1plD43iCNwv8rADRYP+ZkPMOaoxbr</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPTK6A+Ht2O4sIFknmpuku2ty9n7N700qt/IBD9uWPw5xK03B21P8RmLKj/eFgx4/ZD</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation3">
+				<value>CRYPTewXzfhYCc1/5PNkPij1mgwTV9nqtRLuQl1tpa57VgR5jjmHxgtjQJX6MNaxDrpYW</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation3">
+				<value>CRYPTau5Z6EQ6PvJJKHAHK64MfB2Hdfo2rYHS8KwkfXiaBjSZ4PeGL3D/OhzdoAu84beS</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation4">
+				<value>CRYPTpLJEo/jp4TH1LayZhYCcOKdHTaD4k7CnrWMPOjwmEgc/gwUCd0gR/naBPOjVBDeY</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation4">
+				<value>CRYPTnca+v7jjCl7X59vI0YALiCBIwnoQxauP1DQDWd/aq+ydqi2sIYA/RG4rMfZGtTM5</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation5">
+				<value>CRYPTru4DGB1b9UJtupNPQ8LMqOXfQvtiuRQmniMOZyEvu6wAyzvUevTO5ZivFq0yjhGD</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation5">
+				<value>CRYPTbq/IQUuuj/23ER7+K2VpXEnctr16EYR87sQXTh9QAVPY5lEPn3LE+MJgDACfwPdm</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation6">
+				<value>CRYPTtJkIV40LVfXeGM5oTSBooYgLLHbOEH6oypybetE9nRgLza9stsRn20uSMwG4ZMtK</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation6">
+				<value>CRYPTTCbkwz34y+r3lhKa/RnZiJbiWxJ0OfOS3CBUYpsegdXUGCfqR0VF89HKiJdhMDB5</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation7">
+				<value>CRYPTMlfy/VEsbQJSYAqBOMXppcJTCwOPuCfZtZroi+G/HjIMkfdexcmqCTrGi5Au5r0y</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation7">
+				<value>CRYPTAodvgnccgd4H/hfhKh/sif/Hxtrk5/XWzFRkXs9ISy25uipYh2BXgt/98nKXpJjS</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation8">
+				<value>CRYPT50Au2darFhsZMMQr3fWXn2E5clDojCuCBSTKkmro9tTDPWsehHemXu9ANRyGf97d</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation8">
+				<value>CRYPTABvxfUvpBm7ixMp7agwXF76TrWLqTM6yuw+Or09DyF2exeWzaFRImL265kNWwzaC</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation9">
+				<value>CRYPTkQ9kMaaJOZPTDtO/XkJS2Mx7HRCClusGW3qRQQTpv2Sd/cCihDy8xk003wxnKulu</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation9">
+				<value>CRYPThnttJnF9kmey23crWS45kCbVJJTELVdDEx3siKIAc5fmGC0LZV7btc8LsukYDoLy</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation10">
+				<value>CRYPTxDGHdCTCKDU0J+jxuF4xqZ1ZdGR4tPTZHRy5/bDHWTBL169UnFVwFBNCDTzEEJAf</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation10">
+				<value>CRYPTvaxsJuDkRPQSMtuRed3xB+e9g81Q95J3yW39XtK4rwNR1MJWAl1a4xatdDT5ie5c</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation11">
+				<value>CRYPT+Mwcm3YqM1WWfVb6+HFGKgjaXIrkAhXjqJBMhVkyneM6Ig6vosA6jHQTQ6xNkyZM</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation11">
+				<value>CRYPT6RdF71HQ3B60AKl9yxLm2Aw+PWwytsC5jel18wgaRSjMehiLXXyng8jEGns8O/YT</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation12">
+				<value>CRYPTYNLsjSvE+hqNBCwGwSelJJ7A1bx1bpytQlHC0R6wXtVNSdUG/9izYZVbnMzp/Ge/</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation12">
+				<value>CRYPTpHZapCoNW1eUzW8TChSXU8X5Yu9v95C9xoWW0ynHD3MTKlnGRkUI5fKiMxRVSpds</value>
+			</Configuration>
+			<!--
+		<Configuration key="externalmonitor.mux_ip">
+			<value>10.250.2.10</value>
+		</Configuration>
+		<Configuration key="externalmonitor.server_ip">
+			<value>127.0.0.1</value>
+		</Configuration>
+-->
+		</Node>
+		<Node name="cr1-workstation2">
+			<Configuration key="workstationissi">
+				<value>CRYPT81zpqXeZSht0fDYiuSDC6p9F0QuZtV5WBpbs/6FweuHwVXQ2yE+x4cjHMwn8zAa1</value>
+			</Configuration>
+			<Configuration key="affiliation_info_timeout_minutes">
+				<value>CRYPTdEXzPcATWTRFC/RBLunOBdj6CB8zyiNnLeazv6pjK/uODs3L3zBbXl3mq98x88j8</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation1">
+				<value>CRYPT2JVkU6GtK52zXorj2nifq1Sboa26gLvgptxS+5Z3+DpQc+16G1/o7TU3wHEEKf9S</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation1">
+				<value>CRYPTlbKK9i0MFLxenogydECN4ZPvgWUIdIw8aBI/NYBn65dVglO1w6brB+pVUReOBsy0</value>
+			</Configuration>
+			<Configuration key="mcc75.ior.workstation1">
+				<value>CRYPTRGZSiDZUgs/CQYqRim4XUKPdGoSeHpY31kfCMNhqePhBX6gTOEXgoC6vXqcxyrKL3Zu2496NV08oM2CtY32DdNPOQUtc347xTJDM2pocOKg=</value>
+			</Configuration>
+			<Configuration key="mcc75.proxy.workstation1">
+				<value>CRYPTMWXwBXkRccg1vYpgIPcfa9T+ZekalqkkWhCeis4erTj4GXECF+OEp26KobaVyQia</value>
+			</Configuration>
+			<Configuration key="mcc75.certificate.workstation1">
+				<value>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</value>
+			</Configuration>
+			<Configuration key="mcc75.certificate.workstation2">
+				<value>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</value>
+			</Configuration>
+			<Configuration key="mux.ip.workstation1">
+				<value>CRYPTqWfhDUXQPth2Qjd3PsY3LHgjAE30d4eudFT9+n4+O2eGT/LSy1RZ0ZD7eVM9mW4I</value>
+			</Configuration>
+			<Configuration key="mux.port.workstation1">
+				<value>CRYPTXNWYQ99iGDNxA5dC94IHaBIfLuaj87RtBR5ZSz616OjwfuUntf9fOg7j2HqJwUcw</value>
+			</Configuration>
+			<Configuration key="voice_endpoint.ip.workstation1">
+				<value>CRYPTIUneWlWJD12hbZ91jmAA2uLEnD5IN2aAaQsFx4YieI6Cvjam3NE0fLjbLQ9K6cPl</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPT07CvboQJdI6WA3AjlKDQ6dK47uVc0vpcv4n0aXN6kuenbRU0Trzptjjgg9xltBP/</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPT7xFnkr1uGw/yf/zEQZLkDrtCwVGWTB505nEtHXAkTmHPfti1hyd3DjbJDFrO1mJN</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPTFRg+ko2sPGjyvXtOeWp5BYbzCHLiaoa/uQ1JB5ko7xOQGV+H0zgVEpvKm3lVLNNH</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPTvA2XkJ29fz0z+Wa/GQEfLHJe2YtOwg0PFMie2/j13faCGdnZftTS9t7/wxpND9VS</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation2">
+				<value>CRYPTkphL2kwz61dvdrO2B73EZewVLU/6IvaBrDaF9Rc6MVNbC+IIkWmgl8gi1raEJxVQ</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation2">
+				<value>CRYPTRyVJsm6bXRryCYsWpmZ3A1cjfQLYb+3/dF3xEPU/1jcQFBrBd1jjoPf3to0gMmtp</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation3">
+				<value>CRYPTTovyyl8NccJwt2OFmY/B6WM99Kzs/k67nBeTMp3WXzMhBaY9GsC0uyPl/Ya/RZhB</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation3">
+				<value>CRYPTw2KPE+xCFVmukTSsBI++BRyy6SJUWrXEoImjMkJP7+l9LbTOuYSkZWofOzMRSrpJ</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation4">
+				<value>CRYPTNezRRuK/91fcQIw5wXZQnPC8JSTGEuLdrioWvWrNODJn5WcJ/0l4vM7/0zNwqB/n</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation4">
+				<value>CRYPTwgWtKrp8xDtaL4Mx5IyHZP/aZSQ35aVnDKwSwtbrpbXxCKxTKJEphQzVbnmPP4Qa</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation5">
+				<value>CRYPTqM6QGXCAghnYhkmgyWGSbFKiY7nG83mwhGH3Xzf2hb/mnFvXraZ8/tKuzzFLm6s5</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation5">
+				<value>CRYPTqKTuOR/eKW7BRvYk7Z+0YUJ9os8roqmnLisF5t+S1abjhjffO390YxXjFQPjaA/R</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation6">
+				<value>CRYPTsoHpHO4SvCgnCiaZABWrbZGLbQXMlG+FLOGheEfp0P3zRtCX7W7zgt/K6WMRycYx</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation6">
+				<value>CRYPTgRP6Ip7f5SDeFegF+9wxUEQ7goMZOy3X6A2Mhxw/veREYIj0hgw+Zo1JzTHoU1Vb</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation7">
+				<value>CRYPTgLuwORRBnsCA36PMcPDb4Nm4PuvWYrzNQut3T36xG5ZPy+zccfrjrBZJVLmQza9+</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation7">
+				<value>CRYPTBF4swpcU1qATZ37JNrWH5X5ZFls0dBd3i8xmugQdVP0GTek09Bjfd28k4EoWXHWn</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation8">
+				<value>CRYPT4p1C+gP3eVrAo143MusiKOPM3POMQpq6eS1UOSisBm3aftnO9IT3p4ToH6+jmau1</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation8">
+				<value>CRYPTgl15n1rJEP8qaPAjrWxcQpI06nKRB7v6VWjVleK73vmmy6vzNazdeuBuHIgCd9Oc</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation9">
+				<value>CRYPTF7zWCf6p5nhxIVi3zStLcaXcMGafrY47Zpo8xIj2EyYt/8Dm1KIAnbeed2P4Q0UJ</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation9">
+				<value>CRYPToH/Q4yZeye57UFyqkQ6Qyk3F/LoaHYB+YoOqnB/c3lNr3CdTvFPwQEIKXzf2ko6V</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation10">
+				<value>CRYPTFZ+xZYcvovsp2JvLAvD29+mZITUNwEQlZy0scJZSMjaYOHl/mmEe0gGz3VTawE0y</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation10">
+				<value>CRYPTSk0cVqOu1+V1LX9CdVyhyiffN5+nyJE7Tnh4w+I9l1eOUhYDIO1UR8iWaVRJziqz</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation11">
+				<value>CRYPTas6d3RRnG0P2N/KdIeG/wzyFOPFJYqdIHIxkyHlI2B4CTRyC+7TKVlAMDNXmJkeC</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation11">
+				<value>CRYPTLAL8CSitbiKLRyJz4fbaw6mu/jD1lF6p4jIZe0zVPThlh85z8FA/PNR7lw2SIH88</value>
+			</Configuration>
+			<Configuration key="mcc75.username.workstation12">
+				<value>CRYPT4o3NfZNLZc1i/gHX4v70nUq9yFxV2u+ivWLKKMJAVgHNfqkr1CrlpMiwy9HOX9rX</value>
+			</Configuration>
+			<Configuration key="mcc75.password.workstation12">
+				<value>CRYPTD6L0+LQqC2mV28aeeE4L/3qDlw6OD3LCUhkwGyLT+QhIbhApoM2XNf/uGvUxTZrJ</value>
+			</Configuration>
+			<!--
+		<Configuration key="externalmonitor.mux_ip">
+			<value>10.250.2.10</value>
+		</Configuration>
+		<Configuration key="externalmonitor.server_ip">
+			<value>127.0.0.1</value>
+		</Configuration>
+-->
+		</Node>
+	</Configuration>
+</MasterData>

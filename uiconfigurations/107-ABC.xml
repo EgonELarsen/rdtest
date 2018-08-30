@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WorkstationConfiguration>
+  <SINETable Id="com.terma.sine.hmi.dispatch.view.groupdetails.GroupDetailsView.emergencyTable" ColumnWidthIndex="0,1,2" ColumnWidthValue="104,105,104" ColumnIndexSortOrder="" ColumnValueSortOrder="" class="com.terma.sine.hmi.uiservices.graphicslibrary.table.config.SINETableConfig" ui="com.terma.sine.hmi.dispatch.view.groupdetails.GroupDetailsView.emergencyTable"/>
+  <UserInterface FontSize="NORMAL" class="com.terma.sine.hmi.uiservices.systemhmi.userinterfacesettings.model.UserInterfaceSettingsConfig" ui="com.terma.sine.hmi.uiservices.applicationenum.UserSettingApplicationEnum.USERINTERFACE"/>
+  <FrameUserConfig LocationX="1932" LocationY="56" Width="515" Height="1040" class="com.terma.sine.hmi.uiservices.impl.FrameUserConfig" ui="com.terma.sine.hmi.uiservices.impl.DesktopManagerImpl$DesktopWindowEnum.SIDEBAR"/>
+  <SINETable Id="com.terma.sine.hmi.dispatch.view.groupdetails.GroupDetailsView.memberTable" ColumnWidthIndex="0,1" ColumnWidthValue="157,156" ColumnIndexSortOrder="" ColumnValueSortOrder="" class="com.terma.sine.hmi.uiservices.graphicslibrary.table.config.SINETableConfig" ui="com.terma.sine.hmi.dispatch.view.groupdetails.GroupDetailsView.memberTable"/>
+  <FrameUserConfig LocationX="2481" LocationY="39" Width="1277" Height="1032" class="com.terma.sine.hmi.uiservices.impl.FrameUserConfig" ui="com.terma.sine.hmi.uiservices.impl.DesktopManagerImpl$DesktopWindowEnum.DISPATCH"/>
+  <Dispatch font="Tahoma-PLAIN-12" selectedcontainer="0" class="com.terma.sine.hmi.dispatch.model.DispatchHMIUserPreferencesModel" ui="com.terma.sine.hmi.uiservices.applicationenum.DispatchApplicationEnum.DISPATCH_GROUPS">
+    <Container id="0" name="Standard" lock="false" assigned="true"/>
+    <Container id="1" name="Tab 1" lock="true" assigned="true"/>
+    <Container id="2" name="Tab 2" lock="true" assigned="true"/>
+    <Group gssi="9050538" volume="8" coded="false" location="166,18" backgroundcolor="192,192,192" textcolor="0,0,0" container="0"/>
+    <Patch/>
+    <MultiSelect/>
+  </Dispatch>
+</WorkstationConfiguration>
